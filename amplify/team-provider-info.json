@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-kilo-dev-203343-authRole",
+      "UnauthRoleArn": "arn:aws:iam::998537625132:role/amplify-kilo-dev-203343-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::998537625132:role/amplify-kilo-dev-203343-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-kilo-dev-203343-deployment",
+      "UnauthRoleName": "amplify-kilo-dev-203343-unauthRole",
+      "StackName": "amplify-kilo-dev-203343",
+      "StackId": "arn:aws:cloudformation:us-east-2:998537625132:stack/amplify-kilo-dev-203343/1b454da1-5082-11ec-9f9f-02822ed64676",
+      "AmplifyAppId": "dxvvegavvti7g"
+    },
+    "categories": {
+      "auth": {
+        "kilo62821444": {}
+      }
+    }
+  }
+}
